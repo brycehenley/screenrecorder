@@ -8,4 +8,4 @@ This scrip uses libav to record x11 output in lossless HD quailty using h.264 mu
 (this does not include audio)
 
 Dependencies:
-libav
+libav-tools
